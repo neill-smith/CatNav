@@ -15,7 +15,7 @@ Contributions and reports of success or failure welcomed.
 
 You will need a 'catalog' URL from the http://www.jaguar.here.com website. This is personalised to your login (the downloaded map is locked to your car's VIN). Get this by copying the URL from the link on the 'Download Map' button where you would normally click to launch the MapUpdater application. This should start with heremapdownloader://delivery.cc.api.here.com/delivery/*/. These catalog links expire after ~48 hours.
 
-Run CatNavDownloader.py -u <the catalog URL> -d <destination folder>. A HereV1 folder will be created in the destination folder. The car looks for this folder in the root of the drive when you plug in a USB stick. You can either download direct to a USB drive or download locally and copy the folder later.
+Run CatNavDownloader.py -u \<the catalog URL\> -d \<destination folder\>. A HereV1 folder will be created in the destination folder. The car looks for this folder in the root of the drive when you plug in a USB stick. You can either download direct to a USB drive or download locally and copy the folder later.
   
 You will see 'Done!' printed when the download is complete.
   
