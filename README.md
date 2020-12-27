@@ -24,6 +24,6 @@ You can kill the utility at any point and run it again to resume the download. T
 ## Future
 
 Ideas for the future:
- * It may be possible to avoid downloading the map data for every different car. If anyone has two cars with Touch Pro and is willing to share the catalog
+ * It may be possible to avoid downloading the map data for every different car. If anyone has two cars with Touch Pro and is willing to share the catalog files please get in touch.
  * Resume download of partially downloaded files. The largest files are >1GB so this could represent a worthwhile saving.
 
